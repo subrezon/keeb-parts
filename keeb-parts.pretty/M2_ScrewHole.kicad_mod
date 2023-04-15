@@ -1,0 +1,17 @@
+(footprint "M2_ScrewHole" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 643AC5B9)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 3.175 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b9a7d334-64e3-47dd-92cf-53ae82e6bd02)
+  )
+  (fp_text value "M2_ScrewHole" (at 0 -3.175 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 4eee5332-f684-4400-9cb5-fc46e61c48e2)
+  )
+  (fp_circle (center 0 0) (end 1.9 0) (layer "Cmts.User") (width 0.1) (fill none) (tstamp 52289d0d-bab3-4ae0-a132-b1bf66ddca44))
+  (fp_circle (center 0 0) (end 2.15 0) (layer "B.CrtYd") (width 0.05) (fill none) (tstamp b7ec7e7b-4580-4d77-b9f4-025efbba91c1))
+  (fp_circle (center 0 0) (end 2.15 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 84ab931c-d159-476f-9952-05f456878955))
+  (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers F&B.Cu *.Mask) (tstamp 06ee2874-4b82-4b55-b016-c85a75ade34d))
+)

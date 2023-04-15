@@ -1,0 +1,16 @@
+(footprint "M2_StandoffHole" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 643AC5F5)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 3.175 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 3980c9e5-606f-4a2f-93a5-6b95b9e85b43)
+  )
+  (fp_text value "M2_StandoffHole" (at 0 -3.175 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 69cb50ae-293b-4425-8c98-b5d52ce01872)
+  )
+  (fp_circle (center 0 0) (end 3.05 0) (layer "B.CrtYd") (width 0.05) (fill none) (tstamp e0cb25b5-696f-419b-8205-fe5404377d4f))
+  (fp_circle (center 0 0) (end 3.05 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 16cd1b82-6ed9-4081-96a9-affbee1919ee))
+  (pad "" np_thru_hole circle (at 0 0) (size 4 4) (drill 4) (layers F&B.Cu *.Mask) (tstamp ee92bbe3-c495-4b06-8693-a6863b98a3f5))
+)
