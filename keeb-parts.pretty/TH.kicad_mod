@@ -1,0 +1,14 @@
+(footprint "TH" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 643B4494)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 1.905 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 38a9defb-f745-4980-8b1b-649125ea53d4)
+  )
+  (fp_text value "TH" (at 0 -1.905 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ab63e386-a04d-4d44-913c-435d90acdc52)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask) (tstamp e51af8be-5887-41d5-b238-ddde7ce6cb4c))
+)
