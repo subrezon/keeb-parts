@@ -1,0 +1,15 @@
+(footprint "MX_Hole" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 643CC800)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 1.27 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 6de6955c-5095-4966-b561-c6f1054da006)
+  )
+  (fp_text value "MX_Hole" (at 0 -0.635 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 05cae152-075a-4b6b-8e86-0aa0eb33bc6e)
+  )
+  (fp_rect (start -9.525 -9.525) (end 9.525 9.525) (layer "Dwgs.User") (width 0.12) (fill none) (tstamp 7c396565-ceb8-4543-965a-35a1553a986b))
+  (fp_rect (start 7 7) (end -7 -7) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp b139b84f-c3af-4879-bcf4-dc1250c4be79))
+)
